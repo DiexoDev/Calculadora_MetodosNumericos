@@ -69,4 +69,4 @@ ejecutar_proyecto.bat
 ---
 
 ## 👨‍💻 Autor
-Desarrollado para la facultad de ingeniería.
+Desarrollado por Diego Berrio Perez para la facultad de ingeniería.
